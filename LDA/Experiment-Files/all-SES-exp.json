@@ -1,0 +1,247 @@
+[
+    {
+        "job_name": "X840307",
+        "long_name": "What specific change in the clarity of instructions would help your learning?",
+        "acceptable_values": [
+            "X840307"
+        ]
+    },
+    {
+        "job_name": "X840321",
+        "long_name": "What specifically about the use of active learning helped your learning?",
+        "acceptable_values": [
+            "X840321"
+        ]
+    },
+    {
+        "job_name": "X840298",
+        "long_name": "Why did you attend class 75-90% of the time?",
+        "acceptable_values": [
+            "X840298"
+        ]
+    },
+    {
+        "job_name": "X840319",
+        "long_name": "What specifically about the quality of course materials helped your learning?",
+        "acceptable_values": [
+            "X840319"
+        ]
+    },
+    {
+        "job_name": "X840296",
+        "long_name": "What else would you like to say about your learning experience in the course?  Please avoid personal comments about the instructor.",
+        "acceptable_values": [
+            "X840296"
+        ]
+    },
+    {
+        "job_name": "X840297",
+        "long_name": "Why did you attend class 90-100% of the time?",
+        "acceptable_values": [
+            "X840297"
+        ]
+    },
+    {
+        "job_name": "X840302",
+        "long_name": "What specific change in the inclusiveness of the course would help your learning?",
+        "acceptable_values": [
+            "X840302"
+        ]
+    },
+    {
+        "job_name": "X840304",
+        "long_name": "What specific change in the feedback would help your learning?",
+        "acceptable_values": [
+            "X840304"
+        ]
+    },
+    {
+        "job_name": "X840316",
+        "long_name": "What specifically about the support from the instructor helped your learning?",
+        "acceptable_values": [
+            "X840316"
+        ]
+    },
+    {
+        "job_name": "X840312",
+        "long_name": "What specific change in the relevance of the course content would help your learning?",
+        "acceptable_values": [
+            "X840312"
+        ]
+    },
+    {
+        "job_name": "X840305",
+        "long_name": "Was the course too hard or too easy? What specific change related to the level of challenge would help your learning?",
+        "acceptable_values": [
+            "X840305"
+        ]
+    },
+    {
+        "job_name": "X840317",
+        "long_name": "What specifically about the feedback helped your learning?",
+        "acceptable_values": [
+            "X840317"
+        ]
+    },
+    {
+        "job_name": "X840306",
+        "long_name": "What specific change in the quality of course materials would help your learning?",
+        "acceptable_values": [
+            "X840306"
+        ]
+    },
+    {
+        "job_name": "X840325",
+        "long_name": "What specifically about the relevance of the course content helped your learning?",
+        "acceptable_values": [
+            "X840325"
+        ]
+    },
+    {
+        "job_name": "X840340",
+        "long_name": "Please say more about how none of the teaching elements above need improvement to help your learning.",
+        "acceptable_values": [
+            "X840340"
+        ]
+    },
+    {
+        "job_name": "X840318",
+        "long_name": "What specifically about the level of challenge helped your learning?",
+        "acceptable_values": [
+            "X840318"
+        ]
+    },
+    {
+        "job_name": "X840326",
+        "long_name": "What specifically about the assignments or projects helped your learning?",
+        "acceptable_values": [
+            "X840326"
+        ]
+    },
+    {
+        "job_name": "X840311",
+        "long_name": "What specific change in the organization of the course would help your learning?",
+        "acceptable_values": [
+            "X840311"
+        ]
+    },
+    {
+        "job_name": "X840315",
+        "long_name": "What specifically about the inclusiveness of the course helped your learning?",
+        "acceptable_values": [
+            "X840315"
+        ]
+    },
+    {
+        "job_name": "X840308",
+        "long_name": "What specific change in the use of active learning would help your learning?",
+        "acceptable_values": [
+            "X840308"
+        ]
+    },
+    {
+        "job_name": "X840324",
+        "long_name": "What specifically about the organization of this course helped your learning?",
+        "acceptable_values": [
+            "X840324"
+        ]
+    },
+    {
+        "job_name": "X840310",
+        "long_name": "What specific change in instructor communication would help your learning?",
+        "acceptable_values": [
+            "X840310"
+        ]
+    },
+    {
+        "job_name": "X840314",
+        "long_name": "What specific change in the accessibility of the course would help your learning?",
+        "acceptable_values": [
+            "X840314"
+        ]
+    },
+    {
+        "job_name": "X840309",
+        "long_name": "What specific change in the interactions between students would help your learning?",
+        "acceptable_values": [
+            "X840309"
+        ]
+    },
+    {
+        "job_name": "X840299",
+        "long_name": "Why did you attend class 50-75% of the time?",
+        "acceptable_values": [
+            "X840299"
+        ]
+    },
+    {
+        "job_name": "X840303",
+        "long_name": "What specific change in the support from the instructor would help your learning?",
+        "acceptable_values": [
+            "X840303"
+        ]
+    },
+    {
+        "job_name": "X840320",
+        "long_name": "What specifically about the clarity of instructions helped your learning?",
+        "acceptable_values": [
+            "X840320"
+        ]
+    },
+    {
+        "job_name": "X840322",
+        "long_name": "What specifically about the interactions between students helped your learning?",
+        "acceptable_values": [
+            "X840322"
+        ]
+    },
+    {
+        "job_name": "X840323",
+        "long_name": "What specifically about instructor communication helped your learning?",
+        "acceptable_values": [
+            "X840323"
+        ]
+    },
+    {
+        "job_name": "X840313",
+        "long_name": "What specific change in the assignments or projects would help your learning?",
+        "acceptable_values": [
+            "X840313"
+        ]
+    },
+    {
+        "job_name": "X840327",
+        "long_name": "What specifically about the accessibility of this course helped your learning?",
+        "acceptable_values": [
+            "X840327"
+        ]
+    },
+    {
+        "job_name": "X840339",
+        "long_name": "Please say more about how none of the teaching elements above were helpful to your learning.",
+        "acceptable_values": [
+            "X840339"
+        ]
+    },
+    {
+        "job_name": "X840300",
+        "long_name": "Why did you attend class 25-50% of the time?",
+        "acceptable_values": [
+            "X840300"
+        ]
+    },
+    {
+        "job_name": "X840301",
+        "long_name": "Why did you attend class 0-25% of the time?",
+        "acceptable_values": [
+            "X840301"
+        ]
+    },
+    {
+        "job_name": "X840424",
+        "long_name": "Describe any challenges you may have faced this session...",
+        "acceptable_values": [
+            "X840424"
+        ]
+    }
+]
