@@ -1,6 +1,6 @@
 # Description of Contents
 
-This repository holds code used in creating the practitioner guides published on the ADA website ([link](https://provost.uoregon.edu/ada/practitioner-guides)). Right now the code regarding topic modeling and preprocessing is in place, while the code required for the relevant word appendices will be added soon. Additionally a forthcoming methods paper at https://provost.uoregon.edu/ada/practitioner-guides/methods will help to provide context for the contains of the code stored here.
+This repository holds code used in creating the practitioner guides published on the ADA website ([link](https://provost.uoregon.edu/ada/practitioner-guides)). Right now the code regarding topic modeling (LDA), relevant words (TF-IDF), and preprocessing is in place, while additional tutorials and a simplified topic modeling notebook will be added soon. Additionally a forthcoming methods paper at https://provost.uoregon.edu/ada/practitioner-guides/methods will help to provide context for the contains of the code stored here.
 
 # Usage
 
